@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<NewBookData xmlns:xsi="https://www.proquest.com/" d1p1:schemaLocation="https://www.proquest.com/ aaa.xsd" xmlns="https://www.proquest.com/" xmlns:d1p1="https://www.proquest.com/XMLSchema-instance">
+  <Header>
+    <ContentDate>2022-11-15 01:18:08</ContentDate>
+  </Header>
+  <BookRecords>
+    <BookRecord>
+      <BookName>Book 3</BookName>
+      <BookPrice>11</BookPrice>
+      <BookCategory>Category 3</BookCategory>
+      <BookAuthor>Author 3</BookAuthor>
+    </BookRecord>
+    <BookRecord>
+      <BookName>Book 2</BookName>
+      <BookPrice>10</BookPrice>
+      <BookCategory>Category 2</BookCategory>
+      <BookAuthor>Author 2</BookAuthor>
+    </BookRecord>
+    <BookRecord>
+      <BookName>Book 1</BookName>
+      <BookPrice>10</BookPrice>
+      <BookCategory>Category 1</BookCategory>
+      <BookAuthor>Author 1</BookAuthor>
+    </BookRecord>
+  </BookRecords>
+</NewBookData>
